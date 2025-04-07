@@ -6,7 +6,7 @@ vendor\bin\phpunit tests\FuncoesTest.php
 <img src="https://github.com/JohnnyMatheus/Atividade-de-Testes-Unitarios-com-PHPUnit/blob/main/image.png"/>
 </p>
 
-## 👁️‍🗨️Resultado dos Testes
+## <p texte align="center">👁️‍🗨️Resultado dos Testes</p>
 ## 🔸Status: OK (todos os testes passaram)
 ## 🔸Total de testes: 20
 ## 🔸Asserções: 20
