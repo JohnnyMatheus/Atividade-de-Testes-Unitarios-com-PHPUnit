@@ -1,4 +1,4 @@
-# Atividade-de-Testes-Unitarios-com-PHPUnit
+<h1 texte align="center"> Atividade de Testes Unitarios com PHPUnit</h1>
 #Executar o teste
 vendor\bin\phpunit tests\FuncoesTest.php
 
