@@ -14,8 +14,8 @@ vendor\bin\phpunit tests\FuncoesTest.php
  - Utilizar o PHPUnit para automatizar os testes
 
 ## ⚒️Ferramentas utilizadas
-|[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) | [<img src="https://getcomposer.org/img/logo-composer-transparent.png" width=115><br><sub>Composer</sub>](https://getcomposer.org/) |[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) | [<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width=115><br><sub>Xampp</sub>](https://www.apachefriends.org/pt_br/index.html)|  || [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) ||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) | [<img src="https://getcomposer.org/img/logo-composer-transparent.png" width=115><br><sub>Composer</sub>](https://getcomposer.org/) |[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) | [<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width=115><br><sub>Xampp</sub>](https://www.apachefriends.org/pt_br/index.html)||
+| :---: | :---: | :---: | :---: | :---: |
 
 <p align="center">
 <img src="https://github.com/JohnnyMatheus/Atividade-de-Testes-Unitarios-com-PHPUnit/blob/main/image.png"/>
