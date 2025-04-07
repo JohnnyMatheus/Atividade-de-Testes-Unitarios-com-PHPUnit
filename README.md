@@ -8,7 +8,7 @@ vendor\bin\phpunit tests\FuncoesTest.php
 
 
 👁️‍🗨️Resultado dos Testes
-🔸Status: OK (todos os testes passaram)
+#🔸Status: OK (todos os testes passaram)
 🔸Total de testes: 20
 🔸Asserções: 20
 🔸Tempo de execução: ~0.016-0.017 segundos
