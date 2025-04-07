@@ -2,6 +2,9 @@
 #Executar o teste
 vendor\bin\phpunit tests\FuncoesTest.php
 
+## 🔷Descrição do projeto
+<p>Projeto desenvolvido envolvendo as diciplina Engenharia de Software II e Programação III do curso de Ciências da Computação. O projeto tem por objetivo por em prática os conhecimentos adquiridos em aula.</p>
+
 <p align="center">
 <img src="https://github.com/JohnnyMatheus/Atividade-de-Testes-Unitarios-com-PHPUnit/blob/main/image.png"/>
 </p>
