@@ -7,6 +7,7 @@ vendor\bin\phpunit tests\FuncoesTest.php
 </p>
 
 <h1 texte align="center">👁️‍🗨️Resultado dos Testes</h1>
+
 ## 🔸Status: OK (todos os testes passaram)
 ## 🔸Total de testes: 20
 ## 🔸Asserções: 20
